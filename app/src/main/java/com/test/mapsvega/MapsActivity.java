@@ -1,4 +1,4 @@
-package com.test.mapserli;
+package com.test.mapsvega;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -28,7 +28,7 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
-import com.test.mapserli.databinding.ActivityMapsBinding;
+import com.test.mapsvega.databinding.ActivityMapsBinding;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback, GoogleApiClient.ConnectionCallbacks,
         GoogleApiClient.OnConnectionFailedListener,

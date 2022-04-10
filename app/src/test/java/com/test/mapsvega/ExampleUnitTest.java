@@ -1,4 +1,4 @@
-package com.test.mapserli;
+package com.test.mapsvega;
 
 import org.junit.Test;
 

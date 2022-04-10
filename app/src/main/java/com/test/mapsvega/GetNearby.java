@@ -1,4 +1,4 @@
-package com.test.mapserli;
+package com.test.mapsvega;
 
 import static com.google.android.gms.maps.CameraUpdateFactory.newLatLng;
 import static com.google.android.gms.maps.CameraUpdateFactory.zoomTo;
